@@ -1,0 +1,45 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@mipmap/bg"
+               >
+
+   <ImageView
+            android:id="@+id/iv_shitou"
+           android:layout_gravity="center"
+           android:layout_width="250dp"
+            android:scaleType="centerInside"
+           android:layout_height="wrap_content"
+           android:src="@mipmap/shitou"
+           />
+    <ImageView
+            android:layout_marginTop="-80dp"
+            android:layout_marginLeft="75dp"
+            android:id="@+id/iv_chuizhi"
+            android:scaleType="centerInside"
+            android:layout_gravity="center"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/chuizhi"
+    />
+    <com.wny.ccc.NumberView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/click_count"
+        android:layout_gravity="center_horizontal"
+    ></com.wny.ccc.NumberView>
+    <com.wny.ccc.ProgressView
+            android:id="@+id/progress_view"
+            android:layout_gravity="right|center_vertical"
+            android:layout_width="40dp"
+                              android:layout_height="300dp">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:background="@mipmap/progress_bg"/>
+        <ImageView
+                android:layout_gravity="bottom"
+                android:id="@+id/iv_progress"
+                android:layout_width="wrap_content" android:layout_height="0dp"
+                   android:background="@mipmap/progress_content"/>
+    </com.wny.ccc.ProgressView>
+</FrameLayout>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":ccc" external.linked.project.path="$MODULE_DIR$/../../../ccc" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="CCC" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":ccc" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="SELECTED_TEST_ARTIFACT" value="_android_test_" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../ccc/src/main/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../../ccc/build/intermediates/classes/debug" />
+    <output-test url="file://$MODULE_DIR$/../../../ccc/build/intermediates/classes/test/debug" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../ccc">
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/build/generated/source/r/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/build/generated/source/aidl/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/build/generated/source/rs/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/build/generated/res/rs/debug" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/build/generated/res/resValues/debug" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/build/generated/source/r/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/build/generated/source/aidl/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/build/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/build/generated/source/rs/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/build/generated/res/rs/androidTest/debug" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/build/generated/res/resValues/androidTest/debug" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/debug/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/debug/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/debug/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/debug/jni" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/testDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/testDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/testDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/testDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/testDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/testDebug/jni" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/testDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/main/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/main/jni" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/test/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/test/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/test/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/test/jni" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/test/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/androidTest/jni" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ccc/src/androidTest/rs" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/intermediates/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/intermediates/blame" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/intermediates/builds" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/intermediates/bundles" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/intermediates/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/intermediates/dependency-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/intermediates/incremental" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/intermediates/incremental-classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/intermediates/incremental-runtime-classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/intermediates/incremental-verifier" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/intermediates/instant-run-support" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/intermediates/jniLibs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/intermediates/manifests" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/intermediates/pre-dexed" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/intermediates/reload-dex" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/intermediates/res" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/intermediates/restart-dex" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/intermediates/rs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/intermediates/symbols" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/intermediates/transforms" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/outputs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ccc/build/tmp" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 23 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
